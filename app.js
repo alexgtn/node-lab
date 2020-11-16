@@ -17,9 +17,11 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
-
+// localhost:3000/
 app.use('/', indexRouter);
+// localhost:3000/users
 app.use('/users', usersRouter);
+// localhost:3000/posts
 app.use('/posts', postsRouter);
 
 module.exports = app;
