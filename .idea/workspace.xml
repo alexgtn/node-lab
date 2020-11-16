@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4b278d0d-7e65-4a91-a207-12bdb0fb623c" name="Default Changelist" comment="" />
+    <list default="true" id="4b278d0d-7e65-4a91-a207-12bdb0fb623c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1kN9xpjYU6JJgF7XKP8CCAguCUw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -15,6 +22,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -43,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605530431615</updated>
-      <workItem from="1605530432938" duration="1114000" />
+      <workItem from="1605530432938" duration="1599000" />
     </task>
     <servers />
   </component>
@@ -51,6 +59,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="465" y="87" width="426" height="503" key="FileChooserDialogImpl" timestamp="1605531713776">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="465" y="87" width="426" height="503" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1605531713776" />
     <state width="1343" height="184" key="GridCell.Tab.0.bottom" timestamp="1605531509890">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -67,5 +79,13 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="1343" height="184" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1605531509889" />
+    <state x="274" y="19" width="802" height="519" key="Vcs.Push.Dialog.v2" timestamp="1605531867915">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="274" y="19" width="802" height="519" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1605531867915" />
+    <state x="486" y="255" width="383" height="167" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1605531732235">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="486" y="255" width="383" height="167" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1366.768@0.0.1366.768" timestamp="1605531732235" />
   </component>
 </project>
