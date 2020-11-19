@@ -21,7 +21,7 @@ function getError(msg) {
 
 // localhost:3000/users/contacts
 router.get('/contacts', function (req, res, next) {
-  res.send("update me")
+  res.send("updated nodemon")
 });
 
 

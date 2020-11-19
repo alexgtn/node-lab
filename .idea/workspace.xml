@@ -19,9 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b278d0d-7e65-4a91-a207-12bdb0fb623c" name="Default Changelist" comment="complete lab">
+    <list default="true" id="4b278d0d-7e65-4a91-a207-12bdb0fb623c" name="Default Changelist" comment="refactor">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/posts.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/posts.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/posts.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/posts.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/users.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/users.js" afterDir="false" />
     </list>
@@ -73,7 +74,8 @@
       <updated>1605530431615</updated>
       <workItem from="1605530432938" duration="2497000" />
       <workItem from="1605535561112" duration="6208000" />
-      <workItem from="1605776283686" duration="864000" />
+      <workItem from="1605776283686" duration="1100000" />
+      <workItem from="1605780487946" duration="5510000" />
     </task>
     <task id="LOCAL-00001" summary="ignore idea">
       <created>1605532047459</created>
@@ -103,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605541028895</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="refactor">
+      <created>1605777181903</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1605777181903</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,7 +134,8 @@
     <MESSAGE value="ignore idea" />
     <MESSAGE value="add cors" />
     <MESSAGE value="complete lab" />
-    <option name="LAST_COMMIT_MESSAGE" value="complete lab" />
+    <MESSAGE value="refactor" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor" />
   </component>
   <component name="WindowStateProjectService">
     <state x="465" y="87" width="426" height="503" key="FileChooserDialogImpl" timestamp="1605531713776">
@@ -148,13 +158,13 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="1343" height="184" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1605532631106" />
-    <state x="270" y="-61" width="802" height="519" key="Vcs.Push.Dialog.v2" timestamp="1605541030915">
+    <state x="269" y="29" width="802" height="519" key="Vcs.Push.Dialog.v2" timestamp="1605777187236">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="270" y="-61" width="802" height="519" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1605541030915" />
-    <state x="486" y="255" width="383" height="167" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1605531732235">
+    <state x="269" y="29" width="802" height="519" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1605777187236" />
+    <state x="485" y="235" width="383" height="167" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1605777195882">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="486" y="255" width="383" height="167" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1366.768@0.0.1366.768" timestamp="1605531732235" />
+    <state x="485" y="235" width="383" height="167" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1366.768@0.0.1366.768" timestamp="1605777195882" />
   </component>
 </project>

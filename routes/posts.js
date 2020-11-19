@@ -4,13 +4,13 @@ const router = express.Router();
 
 const fs = require('fs');
 
-
 function getError(msg) {
     return {
         "msg": msg,
     }
 }
 
+// GET localhost:3000/posts
 /* GET posts listing. */
 router.get('/', function (req, res, next) {
     fs.readFile('./data/posts.json', (err, data) => {
@@ -21,6 +21,28 @@ router.get('/', function (req, res, next) {
 });
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// POST
+// localhost:3000/posts
+// localhost:3000/posts/
 /* Add posts listing. */
 router.post('/', function (req, res, next) {
     fs.readFile('./data/posts.json', (err, data) => {
@@ -31,7 +53,7 @@ router.post('/', function (req, res, next) {
         if (req.body.text === null || req.body.text === undefined || req.body.text === ''){
             res.status(400);
             const error = getError("Invalid json, please specify 'text' attribute");
-            res.send(error);
+            res.json(error);
             return;
         }
         const newPost = {
